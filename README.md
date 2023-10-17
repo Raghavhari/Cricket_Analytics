@@ -8,7 +8,6 @@
 - [Features](#features)
 - [Usage](#usage)
 - [Contribution](#Contribution)
-- [License](#license)
 
 ## Introduction
 
