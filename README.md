@@ -1,6 +1,6 @@
 # Cricket Analytics Dashboard
 
-<img src = "Cricket Dashboard.png">
+<img src = "Dashboard.png">
 
 ## Table of Contents
 
