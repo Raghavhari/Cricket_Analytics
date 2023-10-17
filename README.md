@@ -1,6 +1,6 @@
 # Cricket Analytics Dashboard
 
-![Cricket Analytics Dashboard](Cricket Dashboard.png)
+<img src = "Cricket Dashboard.png">
 
 ## Table of Contents
 
