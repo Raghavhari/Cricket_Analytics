@@ -7,7 +7,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Contribution](#Contribution)
 - [License](#license)
 
 ## Introduction
